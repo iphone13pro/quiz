@@ -1,0 +1,5 @@
+openai
+json                                                             
+re                                                       
+matplotlib
+numpy	
